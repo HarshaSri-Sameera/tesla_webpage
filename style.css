@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  text-decoration: underline overline;
+  color: #8b0000;
+}
+#image {
+  text-align: center;
+}
+img {
+  border-radius: 50%;
+  width: 300px;
+  border: 5px dashed black;
+}
+h4 {
+  border: 5px solid green;
+}
+#link {
+  font-size: 19px;
+}
